@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('/assets/images/fon.jpg');
+}
+
+.favorite_regissers {
+    background: rgba(213, 232, 247, 0.9);
+}
+
+.people {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    background: rgba(213, 232, 247, 0.9);
+}
+
+.best_films {
+    height: 70px;
+    margin: 15px;
+    background: rgba(213, 232, 247, 0.9);
+}
